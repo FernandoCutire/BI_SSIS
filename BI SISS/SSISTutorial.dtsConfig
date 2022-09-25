@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="VRPC3\PC" GeneratedFromPackageName="Lesson 5" GeneratedFromPackageID="{87A3C063-AC7F-485F-88BF-9F65F6D8BCCE}" GeneratedDate="09/24/2022 11:17:05 p. m."/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::varFolderName].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\New Sample Data</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
