@@ -12,16 +12,13 @@ Laboratorio SSIS para la materia de Inteligencia de Negocios
 
 ## Tabla de contenido
 
-- [Laboratorio SSIS para la materia de Inteligencia de Negocios](#laboratorio-ssis-para-la-materia-de-inteligencia-de-negocios)
+- [Inteligencia de Negocios: Laboratorio SSIS](#inteligencia-de-negocios-laboratorio-ssis)
   - [Tabla de contenido](#tabla-de-contenido)
   - [Requisitos](#requisitos)
-  - [Instalación](#instalacion)
+  - [Instalación](#instalación)
   - [Instrucciones de lecciones](#instrucciones-de-lecciones)
   - [Estilos de commits](#estilos-de-commits)
     - [Formato de commits](#formato-de-commits)
-  - [Formateo de Código](#formateo-de-código)
-    - [Usando prettier](#usando-prettier)
-    - [Usando eslint](#usando-eslint)
 
 ## Requisitos
 
